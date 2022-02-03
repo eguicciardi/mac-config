@@ -65,6 +65,7 @@ CASKS=(
     xcodes
     yed
     zoom
+    skype
 )
 
 echo "Installing cask application, pay attention for password requests"
